@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FeintKotlin</string>
+    <string name="title_home">全部</string>
+    <string name="title_dashboard">今日</string>
+    <string name="title_notifications">我的</string>
+    <string name="article_title">每天一片Kotlin精品文章，不要错过</string>
+    <string name="article_intro">在这里，你将会学习到关于Kotlin的方方面面的内容，加入我们吧！</string>
+    <string name="article_topic">FeintKotlin</string>
+</resources>
